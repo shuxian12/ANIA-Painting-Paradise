@@ -9,5 +9,5 @@
 > - You can also chat with your friend on the chatting room during the playing.
 
 > **Note**
-1. Once you want to renew your environment variables, you have to refresh or restart your web service to make it work.
-2. If you modify your code please push it to your Github repository, and then github will autoly redeploy your web service.
+> 1. Once you want to renew your environment variables, you have to refresh or restart your web service to make it work.
+> 2. If you modify your code please push it to your Github repository, and then github will autoly redeploy your web service.
