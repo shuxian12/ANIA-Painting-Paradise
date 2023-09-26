@@ -9,8 +9,8 @@
 > - You can also chat with your friend on the chatting room during the playing.
 
 
-> **Note**
-Your note text here
+  > **Note**
+  Your note text here
 
 > **Warning**
 Your warning text here
