@@ -12,8 +12,3 @@
 > 1. Once you want to renew your environment variables, you have to refresh or restart your web service to make it work.
 > 2. If you modify your code please push it to your Github repository, and then github will autoly redeploy your web service.
 
-> **Note**
-Your note text here
-
-> **Warning**
-Your warning text here
